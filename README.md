@@ -1,6 +1,7 @@
 # docker-images
 Stockage de nos DockerFiles public
 
-Dont:
+Images disponible:
 lea-pulse-linting
 lea-pulse-deploy
+lea-pulse-compoc
